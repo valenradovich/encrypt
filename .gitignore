@@ -1,0 +1,5 @@
+input_files/*
+decrypted_files/*
+encrypted_files/*
+.python-version
+__pycache__/
